@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AbuduDubudu.aternos.me",
+    "ip": "AbuduDubudu.aternos.me:54042",
     "port": 54042,
     "version": "",
     "try-creative": false
